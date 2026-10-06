@@ -1,0 +1,10 @@
+# Exact host
+example.com
+
+# Subdomains only; add example.com separately when the apex is also in scope
+*.example.com
+
+# Exclusions always take precedence
+!admin.example.com
+!*.internal.example.com
+

@@ -1,0 +1,9 @@
+{
+  "concurrency": 4,
+  "delay_ms": 250,
+  "timeout_seconds": 10,
+  "max_response_bytes": 1048576,
+  "user_agent": "Authorized-Security-Research/1.0",
+  "allow_redirects": false
+}
+

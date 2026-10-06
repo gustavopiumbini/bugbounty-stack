@@ -1,0 +1,9 @@
+programs/*/output/
+programs/*/logs/
+programs/*/scope.txt
+tools/bin/
+tools/downloads/
+!tools/versions.lock.json
+__pycache__/
+*.pyc
+
